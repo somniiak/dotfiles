@@ -1,0 +1,26 @@
+# Syntax highlighting
+include /usr/share/nano/*.nanorc
+
+# Indentation
+set autoindent
+set tabstospaces
+set tabsize 4
+
+# Behaviour
+set mouse
+set positionlog
+unset nonewlines
+
+# UI
+set minibar
+set linenumbers
+set indicator
+set constantshow
+set softwrap
+set atblanks
+set guidestripe 80
+set stripecolor ,brightblack
+set titlecolor ,brightblack
+
+# Hide shortcuts (re-enable with Alt+X)
+# set nohelp

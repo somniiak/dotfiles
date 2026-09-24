@@ -9,6 +9,5 @@ xorg-fonts
 ### Probably
 ```
 xorg-video-drivers
-xf86-input-vmmouse
 gnome-themes-extra
 ```
